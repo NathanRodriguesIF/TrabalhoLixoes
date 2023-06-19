@@ -1,0 +1,1 @@
+Trabalho feito em Python com um Banco de Dados em TXT sobre clientes que querem aprender a reciclar e a lidar com seu lixo. Ele foi feito para a matéria de Introdução à Programação no IFMG - Campus Sabará em 2021.
